@@ -1,0 +1,125 @@
+h1,
+h2 {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.profile {
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+
+  &_first {
+    width: 50%;
+  }
+
+  &_type {
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+    article {
+      cursor: pointer;
+      font-size: 18px;    
+      margin-bottom: 10px;
+      font-weight: 500;
+    }
+
+    &_list {
+      max-height: 200px;
+      padding: 15px 30px;
+      overflow: auto;
+      width: 90%;
+      margin: 0 auto;
+      background-color: var(--main_bg);
+      border-radius: 15px;
+    }
+  }
+
+  &_theme {
+    display: block;
+    margin: 0 auto;
+    outline: 0;
+    padding: 5px 15px;
+    border-radius: var(--radius10);
+    margin-bottom: 15px;
+    width: 90%;
+    border: 1px solid var(--text);
+    font-size: var(--font18);
+    background-color: transparent;
+    color: var(--text);
+  }
+
+  &_label {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 20px;
+
+    label {
+      cursor: pointer;
+      margin-right: 10px;
+    }
+
+    input {
+      margin-top: 2px;
+    }
+  }
+
+  &_upload {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    width: 90%;
+    height: 300px;
+    border: 2px dashed var(--text);
+    border-radius: var(--radius15);
+    text-align: center;
+    cursor: pointer;
+    margin: 0 auto;
+
+    p {
+      position: absolute;
+      padding: 10px;
+    }
+  }
+
+  &_description {
+    resize: none;
+    display: block;
+    width: 90%;
+    min-height: 150px;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: 0;
+    padding: 5px 15px;
+    border: 1px solid var(--text);
+    font-size: var(--font18);
+    background-color: transparent;
+    color: var(--text);
+  }
+
+  &_create {
+    display: block;
+    padding: 7px 35px;
+    background-color: var(--text);
+    border: 0;
+    border-radius: var(--radius15);
+    font-size: var(--font18);
+    margin: 0 auto;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 1080px) {
+  .profile {
+    display: block;
+    &_first {
+      width: 100%;
+    }
+  }
+}

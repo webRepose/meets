@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Aquarium"
+  },
+  {
+    "name": "Promotione"
+  },
+  {
+    "name": "Fundraising"
+  },
+  {
+    "name": "Promotion"
+  },
+  {
+    "name": "Art"
+  },
+  {
+    "name": "Dinner"
+  },
+  {
+    "name": "Auction"
+  },
+  {
+    "name": "Silente"
+  },
+  {
+    "name": "Silent"
+  },
+  {
+    "name": "Ball"
+  },
+  {
+    "name": "Masqueradee"
+  },
+  {
+    "name": "Banquet"
+  },
+  {
+    "name": "Barcamp"
+  },
+  {
+    "name": "Battle"
+  },
+  {
+    "name": "Benefit"
+  },
+  {
+    "name": "Conversatione"
+  },
+  {
+    "name": "Fireside"
+  },
+  {
+    "name": "Brain"
+  },
+  {
+    "name": "Briefing"
+  },
+  {
+    "name": "Bookcrossing"
+  },
+  {
+    "name": "Dating"
+  },
+  {
+    "name": "Webinar"
+  },
+  {
+    "name": "Vertep"
+  },
+  {
+    "name": "Evening"
+  },
+  {
+    "name": "Named"
+  },
+  {
+    "name": "Creative"
+  },
+  {
+    "name": "Ceremonial"
+  },
+  {
+    "name": "Party"
+  },
+  {
+    "name": "Costume"
+  },
+  {
+    "name": "Cocktaile"
+  },
+  {
+    "name": "After-party"
+  },
+  {
+    "name": "Quize"
+  },
+  {
+    "name": "Workshope"
+  },
+  {
+    "name": "Meetings"
+  },
+  {
+    "name": "Meetinge"
+  },
+  {
+    "name": "Celebrity"
+  },
+  {
+    "name": "Businesse"
+  },
+  {
+    "name": "Businesss"
+  },
+  {
+    "name": "Demo"
+  },
+  {
+    "name": "Mastermind"
+  },
+  {
+    "name": "Exhibition"
+  },
+  {
+    "name": "Debates"
+  },
+  {
+    "name": "Animals"
+  },
+  {
+    "name": "Industryw"
+  },
+  {
+    "name": "Trade"
+  },
+  {
+    "name": "Expo"
+  },
+  {
+    "name": "Businessw"
+  },
+  {
+    "name": "Race"
+  },
+  {
+    "name": "Living"
+  },
+  {
+    "name": "Festivities"
+  },
+  {
+    "name": "Debate"
+  },
+  {
+    "name": "Tasting"
+  },
+  {
+    "name": "Demonstration"
+  },
+  {
+    "name": "Self-government"
+  },
+  {
+    "name": "Open day"
+  },
+  {
+    "name": "Career"
+  },
+  {
+    "name": "Dialogue"
+  },
+  {
+    "name": "Disco"
+  },
+  {
+    "name": "Discussion"
+  },
+  {
+    "name": "Open"
+  },
+  {
+    "name": "Group"
+  },
+  {
+    "name": "Panel"
+  },
+  {
+    "name": "Report"
+  },
+  {
+    "name": "Thematic"
+  },
+  {
+    "name": "Travels"
+  },
+  {
+    "name": "Arrival"
+  },
+  {
+    "name": "Meetineg"
+  },
+  {
+    "name": "Game"
+  },
+  {
+    "name": "Businessc"
+  },
+  {
+    "name": "Businessb"
+  },
+  {
+    "name": "Intellectual"
+  },
+  {
+    "name": "Role-playing"
+  },
+  {
+    "name": "Sports"
+  },
+  {
+    "name": "Simulation"
+  },
+  {
+    "name": "Interview"
+  },
+  {
+    "name": "Public"
+  },
+  {
+    "name": "Blitz"
+  },
+  {
+    "name": "Cabbage"
+  },
+  {
+    "name": "Carnival"
+  },
+  {
+    "name": "Homge"
+  },
+  {
+    "name": "Quest"
+  },
+  {
+    "name": "Escape"
+  },
+  {
+    "name": "Sport"
+  },
+  {
+    "name": "City"
+  },
+  {
+    "name": "Morpheus"
+  },
+  {
+    "name": "Quiz"
+  },
+  {
+    "name": "Educational"
+  },
+  {
+    "name": "Entertainment"
+  },
+  {
+    "name": "Marketing"
+  },
+  {
+    "name": "Clubs"
+  },
+  {
+    "name": "Case"
+  },
+  {
+    "name": "Club"
+  },
+  {
+    "name": "Interest"
+  },
+  {
+    "name": "Conversation"
+  },
+  {
+    "name": "Cocktail"
+  },
+  {
+    "name": "Colloquium"
+  },
+  {
+    "name": "Congresss"
+  },
+  {
+    "name": "Contest"
+  },
+  {
+    "name": "Conference"
+  },
+  {
+    "name": "Business"
+  },
+  {
+    "name": "Web"
+  },
+  {
+    "name": "Internet"
+  },
+  {
+    "name": "Online"
+  },
+  {
+    "name": "Industry"
+  },
+  {
+    "name": "TED"
+  },
+  {
+    "name": "Unconference"
+  },
+  {
+    "name": "Convention"
+  },
+  {
+    "name": "Scientific"
+  },
+  {
+    "name": "Neoconference"
+  },
+  {
+    "name": "Professional"
+  },
+  {
+    "name": "Quiet"
+  },
+  {
+    "name": "Concert"
+  },
+  {
+    "name": "Crash"
+  },
+  {
+    "name": "Cup"
+  },
+  {
+    "name": "Laboratory"
+  },
+  {
+    "name": "Lectory"
+  },
+  {
+    "name": "Lecture"
+  },
+  {
+    "name": "Round table"
+  },
+  {
+    "name": "Silentlecture"
+  },
+  {
+    "name": "Dialoguelecture"
+  },
+  {
+    "name": "Discussionlecture"
+  },
+  {
+    "name": "Flyer"
+  },
+  {
+    "name": "Marathon"
+  },
+  {
+    "name": "Video"
+  },
+  {
+    "name": "Masquerade"
+  },
+  {
+    "name": "Masterclass"
+  },
+  {
+    "name": "Workshop"
+  },
+  {
+    "name": "Match"
+  },
+  {
+    "name": "Meetinges"
+  },
+  {
+    "name": "Brainstorming"
+  },
+  {
+    "name": "Networking"
+  },
+  {
+    "name": "Librarynight"
+  },
+  {
+    "name": "Museumnight"
+  },
+  {
+    "name": "Rite"
+  },
+  {
+    "name": "Groupdiscussion"
+  },
+  {
+    "name": "Spark"
+  },
+  {
+    "name": "SubjectOlympiad"
+  },
+  {
+    "name": "SportsOlympiad"
+  },
+  {
+    "name": "Operationameeting"
+  },
+  {
+    "name": "Openmic"
+  },
+  {
+    "name": "OpenSpace"
+  },
+  {
+    "name": "Parade"
+  },
+  {
+    "name": "Open Space"
+  },
+  {
+    "name": "Militaryparade"
+  },
+  {
+    "name": "Championship"
+  },
+  {
+    "name": "Performances"
+  },
+  {
+    "name": "Peachheap"
+  },
+  {
+    "name": "Picnic"
+  },
+  {
+    "name": "Picket"
+  },
+  {
+    "name": "Pitche"
+  },
+  {
+    "name": "Pitch"
+  },
+  {
+    "name": "Pitchsession"
+  },
+  {
+    "name": "Planningmeeting"
+  },
+  {
+    "name": "Pleinair"
+  },
+  {
+    "name": "Plogging"
+  },
+  {
+    "name": "Hangingbook"
+  },
+  {
+    "name": "Suspendedcourse"
+  },
+  {
+    "name": "Duel"
+  },
+  {
+    "name": "Trip"
+  },
+  {
+    "name": "Show"
+  },
+  {
+    "name": "Cinemashowing"
+  },
+  {
+    "name": "Fashionshow"
+  },
+  {
+    "name": "Showxshowing"
+  },
+  {
+    "name": "Dedication"
+  },
+  {
+    "name": "Setting"
+  },
+  {
+    "name": "Campaign"
+  },
+  {
+    "name": "Holiday"
+  },
+  {
+    "name": "Practicum"
+  },
+  {
+    "name": "Performance"
+  },
+  {
+    "name": "Presentation"
+  },
+  {
+    "name": "Product/servicepresentation"
+  },
+  {
+    "name": "Presslunch"
+  },
+  {
+    "name": "Pressbriefing"
+  },
+  {
+    "name": "Pressbreakfast"
+  },
+  {
+    "name": "Pressconference"
+  },
+  {
+    "name": "Presstour"
+  },
+  {
+    "name": "Pressdinner"
+  },
+  {
+    "name": "Reception"
+  },
+  {
+    "name": "Run"
+  },
+  {
+    "name": "Walk"
+  },
+  {
+    "name": "Travel"
+  },
+  {
+    "name": "Fiveminutes"
+  },
+  {
+    "name": "Speakingclub"
+  },
+  {
+    "name": "Sale"
+  },
+  {
+    "name": "Garagesale"
+  },
+  {
+    "name": "Reconstruction"
+  },
+  {
+    "name": "Rehearsal"
+  },
+  {
+    "name": "Retreat"
+  },
+  {
+    "name": "Ritual"
+  },
+  {
+    "name": "Draw"
+  },
+  {
+    "name": "Fishing"
+  },
+  {
+    "name": "Summit"
+  },
+  {
+    "name": "Seminar"
+  },
+  {
+    "name": "Session"
+  },
+  {
+    "name": "Q&Asession"
+  },
+  {
+    "name": "Coachsession"
+  },
+  {
+    "name": "Pitch session"
+  },
+  {
+    "name": "Strategic session"
+  },
+  {
+    "name": "Failures session"
+  },
+  {
+    "name": "Foresight session"
+  },
+  {
+    "name": "Expert session"
+  },
+  {
+    "name": "Symposium"
+  },
+  {
+    "name": "Slam"
+  },
+  {
+    "name": "Science slam"
+  },
+  {
+    "name": "Meetingsa"
+  },
+  {
+    "name": "Meeting"
+  },
+  {
+    "name": "Spartakiad"
+  },
+  {
+    "name": "Sports competition"
+  },
+  {
+    "name": "Sports holiday"
+  },
+  {
+    "name": "Stand-up"
+  },
+  {
+    "name": "Community work day"
+  },
+  {
+    "name": "Congress"
+  },
+  {
+    "name": "Creative evening"
+  },
+  {
+    "name": "Theatricalization"
+  },
+  {
+    "name": "Team building"
+  },
+  {
+    "name": "Ceremonial opening or closing"
+  },
+  {
+    "name": "Broadcast"
+  },
+  {
+    "name": "Live broadcast"
+  },
+  {
+    "name": "Training"
+  },
+  {
+    "name": "Business training"
+  },
+  {
+    "name": "Team-building training"
+  },
+  {
+    "name": "Psychological training"
+  },
+  {
+    "name": "Open workout"
+  },
+  {
+    "name": "Tour"
+  },
+  {
+    "name": "Audio tour"
+  },
+  {
+    "name": "Audio ethnographic tour"
+  },
+  {
+    "name": "Ethno tour"
+  },
+  {
+    "name": "Tournament"
+  },
+  {
+    "name": "Hiking tour"
+  },
+  {
+    "name": "Toursllet"
+  },
+  {
+    "name": "Open-air festival"
+  },
+  {
+    "name": "Festival"
+  },
+  {
+    "name": "Flash mob"
+  },
+  {
+    "name": "Foresightsession"
+  },
+  {
+    "name": "Forum"
+  },
+  {
+    "name": "Photo marathon"
+  },
+  {
+    "name": "Photo session"
+  },
+  {
+    "name": "Photo drying"
+  },
+  {
+    "name": "Buffet"
+  },
+  {
+    "name": "Hackathon"
+  },
+  {
+    "name": "Ceremony"
+  },
+  {
+    "name": "Closingceremony"
+  },
+  {
+    "name": "Awardceremony"
+  },
+  {
+    "name": "Openingceremony"
+  },
+  {
+    "name": "Challenge"
+  },
+  {
+    "name": "Championshipe"
+  },
+  {
+    "name": "Reading"
+  },
+  {
+    "name": "Readings"
+  },
+  {
+    "name": "Scientific readings"
+  },
+  {
+    "name": "Literary readings"
+  },
+  {
+    "name": "Procession"
+  },
+  {
+    "name": "Carnivalprocession"
+  },
+  {
+    "name": "Showe"
+  },
+  {
+    "name": "Culinary show"
+  },
+  {
+    "name": "Scientific and educational show"
+  },
+  {
+    "name": "Showshowing"
+  },
+  {
+    "name": "Entertainment show"
+  },
+  {
+    "name": "Talentshow"
+  },
+  {
+    "name": "Realityshow"
+  },
+  {
+    "name": "Talkshow"
+  },
+  {
+    "name": "Excursion"
+  },
+  {
+    "name": "Virtualexcursion"
+  },
+  {
+    "name": "Openexcursion"
+  },
+  {
+    "name": "Expedition"
+  },
+  {
+    "name": "Experiment"
+  },
+  {
+    "name": "Jobfair"
+  },
+  {
+    "name": "Ideasfair"
+  },
+  {
+    "name": "Fair"
+  }
+]
